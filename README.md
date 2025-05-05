@@ -2,6 +2,10 @@
 Decompile sourcemod (.smx) files with Lysis and Python. \
 `Decompressor` - extra util for remove compression from sourcemod plugins.
 
+## Requirements
+ - [Python 3.x](https://www.python.org/)
+ - [Java](https://www.oracle.com/java/technologies/downloads/)
+
 ## Usage
 Make `plugins` folder and put `.smx` plugins into that folder. After that, run script 
 ```
